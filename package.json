@@ -1,0 +1,15 @@
+{
+  "name": "denotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "deno run --allow-net server.ts"
+  },
+  "engines": {
+    "deno": "1.36.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
