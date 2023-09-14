@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "deno run --allow-net server.ts"
+    "start": "deno run deno run --allow-net --allow-read --allow-env server.ts"
   },
   "engines": {
     "deno": "1.36.2"
